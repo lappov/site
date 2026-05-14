@@ -8,11 +8,11 @@
     <meta name="keywords" content="redoku как начать, minecraft сервер подключение, 1.21.11 fabric, legacy launcher, simple voice chat, emotecraft, майнкрафт без лицензии">
     <meta name="author" content="Redoku Team">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://redoku.vercel.app/info.html">
+    <link rel="canonical" href="https://redoku.vercel.app/info">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://redoku.vercel.app/info.html">
+    <meta property="og:url" content="https://redoku.vercel.app/info">
     <meta property="og:title" content="Как начать играть в Redoku — Инструкция подключения">
     <meta property="og:description" content="Подробная инструкция по подключению к Minecraft серверу Redoku. 4 простых шага: лаунчер, версия, моды, IP адрес. Игра без лицензии.">
     <meta property="og:image" content="https://redoku.vercel.app/og-image.jpg">
@@ -21,7 +21,7 @@
     
     <!-- Twitter -->
     <meta property="twitter:card" content="summary">
-    <meta property="twitter:url" content="https://redoku.vercel.app/info.html">
+    <meta property="twitter:url" content="https://redoku.vercel.app/info">
     <meta property="twitter:title" content="Как начать играть в Redoku — Инструкция подключения">
     <meta property="twitter:description" content="Подробная инструкция по подключению к Minecraft серверу Redoku. 4 простых шага: лаунчер, версия, моды, IP адрес. Игра без лицензии.">
     
@@ -132,7 +132,7 @@
             <!-- Десктопное меню -->
             <div class="hidden lg:flex items-center gap-6">
                 <a href="index.html" class="text-sm font-medium text-gray-400 hover:text-white transition-all">Главная</a>
-                <a href="info.html" class="text-sm font-medium text-brand-red drop-shadow-[0_0_8px_rgba(255,46,67,0.5)] transition-all">Инфо</a>
+                <a href="info" class="text-sm font-medium text-brand-red drop-shadow-[0_0_8px_rgba(255,46,67,0.5)] transition-all">Инфо</a>
                 <a href="lore.html" class="text-sm font-medium text-gray-400 hover:text-brand-copper transition-all">Лор</a>
                 <a href="news.html" class="text-sm font-medium text-gray-400 hover:text-white transition-all">Новости</a>
                 <a href="wiki.html" class="text-sm font-medium text-gray-400 hover:text-white transition-all">wiki</a>
@@ -166,7 +166,7 @@
     <!-- Мобильное меню -->
     <div id="mobile-menu" class="fixed inset-0 bg-brand-bg/98 backdrop-blur-xl z-[90] flex flex-col items-center justify-center gap-6 opacity-0 pointer-events-none transition-all duration-300 mobile-nav-links">
         <a href="index.html" class="text-2xl font-display font-bold text-white">Главная</a>
-        <a href="info.html" class="text-2xl font-display font-bold text-brand-red">Инфо</a>
+        <a href="info" class="text-2xl font-display font-bold text-brand-red">Инфо</a>
         <a href="lore.html" class="text-2xl font-display font-bold text-white">Лор сервера</a>
         <a href="news.html" class="text-2xl font-display font-bold text-white">Новости</a>
         <a href="wiki.html" class="text-2xl font-display font-bold text-white">wiki</a>
@@ -401,7 +401,7 @@
                 <h4 class="text-white font-display font-bold mb-4 text-xs tracking-widest uppercase">Навигация</h4>
                 <ul class="space-y-2 text-xs text-gray-400">
                     <li><a href="index.html" class="hover:text-brand-red transition-colors">Главная</a></li>
-                    <li><a href="info.html" class="hover:text-brand-red transition-colors">Как начать</a></li>
+                    <li><a href="info" class="hover:text-brand-red transition-colors">Как начать</a></li>
                     <li><a href="lore.html" class="hover:text-brand-red transition-colors">Лор мира</a></li>
                     <li><a href="rules.html" class="hover:text-brand-red transition-colors">Правила</a></li>
                     <li><a href="donate.html" class="hover:text-brand-red transition-colors">Поддержать</a></li>
